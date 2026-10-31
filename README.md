@@ -47,6 +47,7 @@ Welcome to the curated treasury of tools designed for the **Agentic Era**. This 
 
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)** — The universal language of tools. MCP allows you to connect your agents to any data source, API, or local service with zero friction.
 - **[AgentLint](https://github.com/0xmariowu/AgentLint)** — Ensure your repo is agent-ready. Scans for structural clarity, instruction quality, and security to make sure your AI "gets" your code.
+- **[agent-qa](https://vostride.com)** — Give coding agents app-level feedback: tests web, Android and iOS through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable run evidence.
 - **[brood-box](https://github.com/stacklok/brood-box)** — The safety net. A hardware-isolated microVM sandbox that lets your agents run wild without risking your host machine.
 - **[Nex](https://github.com/nex-crm/nex-as-a-skill)** — Organizational memory. Connects your agents to email, Slack, and CRM to provide them with the ultimate context for what they're building.
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** — The auditory vibe. Adds an audio layer to your coding sessions with hook-triggered soundscapes and voice interaction.
